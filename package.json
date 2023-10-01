@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.0.1",
+    "discord.js": "^14.13.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.2",
+    "lodash.uniqwith": "^4.5.0",
+    "moment": "^2.29.4"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  },
+  "name": "v14-slash-command-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
